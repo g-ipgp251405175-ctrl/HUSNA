@@ -1,0 +1,6 @@
+{
+  "name": "Present Perfect Continuous Tense",
+  "description": "An interactive cartoon-themed slide deck for Year 4, 5, and 6 primary school students with quizzes, sentence builders, and fun practice activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
